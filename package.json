@@ -2,7 +2,7 @@
   "name": "example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrizalfahmi.github.io/react-host",
+  "homepage": "http:https://mrizalfahmi.github.io/react-host",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
